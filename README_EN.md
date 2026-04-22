@@ -310,6 +310,7 @@ Please check:
 - whether the DeepSeek API Key is correct
 - whether the network connection is normal
 - whether the API service is available
+-  Should changes be saved after entering the API key? (This step is located under “Settings > Enter API Key > Test Connection > Save Configuration”)
 
 ---
 
