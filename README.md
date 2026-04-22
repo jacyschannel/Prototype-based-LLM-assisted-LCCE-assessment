@@ -192,12 +192,14 @@ CarbonCalc.exe
 4. 获取 `license.key`
 5. 点击“导入 License 文件”
 6. 导入成功后进入主界面
-p.s. 目前我们为完全开放，不需要导入License即可使用哦
+
+🤭目前我们为完全开放，不需要导入License即可使用哦
 
 #### 步骤二：配置 DeepSeek API
 进入“配置管理”页面，填写：
 - API Key
 - API Base URL
+
 这里可以访问DeepSeek官网进行API充值，0.1元可用100次左右
 
 然后点击：
