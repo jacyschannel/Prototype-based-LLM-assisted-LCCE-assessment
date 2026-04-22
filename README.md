@@ -40,6 +40,8 @@ For the residential building's LCCE assessment
 ## 📰 News
 
 - **[最新版本]** 发布桌面版 GUI 程序，支持单体模拟、批量模拟、结果查看和配置管理。
+- ## 下载
+请前往 [Releases 页面](https://github.com/jacyschannel/Proto-LLM_LCCE_assessment/releases) 下载最新版本。
 - **[更新]** 新增自然语言输入模式，支持通过 DeepSeek API 自动解析建筑参数。
 - **[更新]** 新增批量计算功能，支持 Excel 批量和自然语言批量两种模式。
 - **[更新]** 新增授权激活机制与加密模板保护机制。
