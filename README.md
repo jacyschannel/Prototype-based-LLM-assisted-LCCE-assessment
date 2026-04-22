@@ -311,6 +311,7 @@ CarbonCalc.exe
 - DeepSeek API Key 是否填写正确
 - 网络是否正常
 - API 服务是否可用
+- 输入API后是否保存更改？（这一步在“设置-输入APIkey-测试连接-保存配置”）
 
 
 ---
