@@ -41,6 +41,9 @@ This software is mainly intended for:
 ## 📰 News
 
 - **[Latest]** Released the desktop GUI version, supporting single-case simulation, batch simulation, result viewing, and configuration management.
+- ## Download
+
+Please visit the [Releases page](https://github.com/jacyschannel/Proto-LLM_LCCE_assessment/releases) to download the latest version.
 - **[Update]** Added a natural-language input mode, supporting automatic parsing of building parameters through the DeepSeek API.
 - **[Update]** Added batch calculation functions, supporting both Excel-based batch input and natural-language batch input.
 - **[Update]** Added an activation mechanism and encrypted template protection.
