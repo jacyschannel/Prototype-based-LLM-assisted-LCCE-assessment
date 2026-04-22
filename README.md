@@ -1,4 +1,4 @@
-# Prototype-based-LLM-assisted-LCCE-assessment
+# Prototype-based LLM-assisted-LCCE-assessment
 For the residential building's LCCE assessment
 # 🏠 基于典型建筑库的全生命周期碳排放评估系统
 
