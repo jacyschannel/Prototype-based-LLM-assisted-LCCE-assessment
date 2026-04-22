@@ -71,16 +71,17 @@ For the residential building's LCCE assessment
 ## 🖼️ 软件界面
 
 ### 首页
-![首页](images/home.png)
+![首页](images/homeCNday.png)
+![首页](images/homeCNnight.png)
 
 ### 单体模拟
-![单体模拟](images/single_sim.png)
+![单体模拟](images/single_simCN.png)
 
 ### 批量模拟
-![批量模拟](images/batch_sim.png)
+![批量模拟](images/batch_simCN.png)
 
 ### 结果查看
-![结果查看](images/results.png)
+![结果查看](images/resultsCN.png)
 
 ---
 
