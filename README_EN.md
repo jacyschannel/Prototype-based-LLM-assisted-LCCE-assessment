@@ -1,7 +1,7 @@
 # Prototype-based-LLM-assisted-LCCE-assessment
 For residential building life-cycle carbon emissions assessment
 
-# 🏠 Whole Life-Cycle Carbon Emission Assessment System Based on a Typical Building Library
+# 🏠 Life-Cycle Carbon Emission Assessment System Based on a Typical Building Library
 
 <p align="center">
   <img src="images/logo.png" alt="logo" width="160">
