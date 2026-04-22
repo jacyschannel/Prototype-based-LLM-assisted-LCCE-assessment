@@ -72,16 +72,16 @@ This software is mainly intended for:
 ## 🖼️ Interface Preview
 
 ### Home
-![Home](images/home.png)
-
+![Home](images/homeENday.png)
+![Home](images/homeENnight.png)
 ### Single Simulation
-![Single Simulation](images/single_sim.png)
+![Single Simulation](images/single_simEN.png)
 
 ### Batch Simulation
-![Batch Simulation](images/batch_sim.png)
+![Batch Simulation](images/batch_simEN.png)
 
 ### Results Viewer
-![Results Viewer](images/results.png)
+![Results Viewer](images/resultsEN.png)
 
 ---
 
